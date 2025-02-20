@@ -7,7 +7,6 @@ This project demonstrates how to use Python with Selenium to scrape data from a 
 - **Python**
 - **Selenium** for web scraping
 - **pandas** for data manipulation
-- **BeautifulSoup** for HTML parsing
 - **SQLAlchemy** for database interaction
 - **PostgreSQL** for storing the scraped data
 
